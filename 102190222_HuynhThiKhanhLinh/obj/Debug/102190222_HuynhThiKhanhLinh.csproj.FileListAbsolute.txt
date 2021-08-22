@@ -1,0 +1,17 @@
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.csproj.AssemblyReference.cache
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\_102190222_HuynhThiKhanhLinh.Properties.Resources.resources
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\_102190222_HuynhThiKhanhLinh.HuynhThiKhanhLinh_MF.resources
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.csproj.GenerateResource.cache
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\102190222_HuynhThiKhanhLinh.exe.config
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\102190222_HuynhThiKhanhLinh.exe
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\102190222_HuynhThiKhanhLinh.pdb
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\EntityFramework.dll
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\EntityFramework.xml
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.csproj.CopyComplete
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.exe
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\102190222_HuynhThiKhanhLinh.pdb
+C:\Users\HP Envy 13\source\repos\102190222_HuynhThiKhanhLinh\102190222_HuynhThiKhanhLinh\obj\Debug\_1021902222_HuynhThiKhanhLinh.GUI.HuynhThiKhanhLinh_DF.resources
